@@ -1,0 +1,11 @@
+// API
+export const SET_REQUEST_IN_PROCESS = 'SET_REQUEST_IN_PROCESS';
+export const SET_REQUEST_ENDED = 'SET_REQUEST_ENDED';
+export const SET_REQUEST_LOAD_MORE_ENDED = 'SET_REQUEST_LOAD_MORE_ENDED';
+export const SET_REQEUST_ERROR = 'SET_REQEUST_ERROR';
+// Cart
+export const MOVE_TO_CART = 'MOVE_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const CLEAR_CART = 'CLEAR_CART';
+// Turn on/Turn off light theme
+export const CHANGE_THEME = 'CHANGE_THEME';

@@ -1,0 +1,9 @@
+.MuiTabs-flexContainer {
+    justify-content: flex-end;
+}
+
+.switcher {
+    position: absolute;
+    z-index: 1;
+    top: 4px;
+}
